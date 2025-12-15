@@ -1,6 +1,6 @@
 # 🎵 Spotify Data Analysis & Machine Learning Project
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](ML_Project_Final.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frzerxz/spotify-ml-analysis/blob/main/ML_Project_Final.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-green)
