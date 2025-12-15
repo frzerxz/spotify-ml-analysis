@@ -56,11 +56,12 @@ The goal is to predict song popularity, analyze the factors behind a "hit" song,
 
 ## 📂 Project Structure
 ```
-├── Spotify_ML_Final.ipynb   # Main Jupyter Notebook containing all codes
-├── ML_Project_Report.pdf    # Detailed Project Report
-├── dataset.csv              # Classification Dataset
-├── spotify_data clean.csv   # Regression Dataset
-└── README.md                # Project Documentation
+├── Spotify_ML_Final.ipynb               # Main Jupyter Notebook containing all codes
+├── ML_Project_Report.pdf                # Detailed Project Report
+├── dataset.csv                          # Classification Dataset
+├── spotify_data clean.csv               # Regression Dataset
+├── Most_Streamed_Spotify_Songs_2024.csv # Clustering Dataset
+└── README.md                            # Project Documentation
 ```
 
 ## ✍️ Author
